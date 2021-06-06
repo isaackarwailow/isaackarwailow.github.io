@@ -1,10 +1,5 @@
 ---
-title: 'New Title'
+layout: default
+title: Home
 ---
-
-Below lies my first object:
-{{page.title}}
-
-{{'hi'| capitalize }}
-
 <h1>{{ "Hello World!" | downcase }}</h1>
