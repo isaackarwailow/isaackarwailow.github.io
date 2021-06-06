@@ -1,2 +1,3 @@
 bundle exec jekyll serve
 jekyll serve
+jekyll serve --drafts
