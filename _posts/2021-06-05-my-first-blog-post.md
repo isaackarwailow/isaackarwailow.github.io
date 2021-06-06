@@ -1,7 +1,10 @@
 ---
-layout: 'post'
-title: 'This is the new title'
-date: 2021-06-05 02:30:50 +1000
+title: 'New Title'
 ---
 
-Some content
+Below lies my first object:
+{{page.title}}
+
+{{'hi'| capitalize }}
+
+<h1>{{ "Hello World!" | downcase }}</h1>
