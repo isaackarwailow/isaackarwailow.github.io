@@ -14,6 +14,7 @@ down in my diary that are activities that I think anyone can do if they have the
 Scientist.
 
 **Daily activities for becoming a data scientist:**
+
 - Complete ANZ virtual internship
 - Study Scientific Computing with Python with FreeCodeCamp
 - Study JavaScript Algorithms and Data Structures with Free Code Camp

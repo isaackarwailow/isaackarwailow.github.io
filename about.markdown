@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
 I aspire to be someone who embodies the passion for being data-driven. I am passionate about the okpen source world and have been involved in a couple of git projects. I always look forward to learning more about computer science or machine learning algorithms in order to ask interesting questions and solve interesting problems.
