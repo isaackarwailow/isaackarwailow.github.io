@@ -19,13 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Data Science Juice
-email: your-email@example.com
+email: isaackarwailow@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  This Data Science website is to detail my journey in learning about the technicalities of data science
+  and artificial intelligence. Other than a pseudolink to my portfolio, where the real juice and innovative potential is,
+  I'd like to deidicate this blog to an audience who is not so well versed yet with Data Science. \n
+
+  I strongly believe that living the good life involves some form of giving back to the community. Throughout my
+  career, I aspire to not only be a Data Science/ AI practiotioner who is involved at the cutting edge of innovation
+  and technology, I want to pass down the knowledge that I have gained throughout my career so
+  that others may make use of this resource whenever they want to start building a career in Data Science
+baseurl: "/isaackarwailow" # the subpath of your site, e.g. /blog
+url: "http://www.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isaackarwailow
 github_username:  isaackarwailow
 
