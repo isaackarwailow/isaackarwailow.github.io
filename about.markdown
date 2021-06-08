@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the page guys. Ever since I started my data science journey doing a Certificate in Data Science and Artificial Intelligence, I will never look at Data Science the same way again. Personally, I do not only wish to establish myself as a Data Scientist, but a Data Evangelist.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+For fitness
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can find my git Projects in the link below:
+[isaackarwailow](https://github.com/isaackarwailow)
