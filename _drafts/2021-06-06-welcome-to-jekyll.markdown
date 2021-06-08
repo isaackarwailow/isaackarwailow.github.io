@@ -3,7 +3,7 @@ layout: post
 title:  "Data Science journey"
 date:   2021-06-06 02:30:50 +1000
 categories: jekyll learning
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:categories/:title.html
 ---
 
 YAML, JSON
