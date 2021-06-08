@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Post
+title: The Journey Begins
 ---
 
 I will start my blog my saying that I really thoroughly enjoy making new projects on GitHub. My life has definitely
