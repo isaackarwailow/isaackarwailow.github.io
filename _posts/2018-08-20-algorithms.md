@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Isaac Low
-cateogory: coding interviews algorithms
 title: Algorithmic questions
 ---
 
