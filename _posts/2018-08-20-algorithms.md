@@ -6,7 +6,7 @@ title: Algorithmic questions
 ---
 
 In preparing for my coding interviews, I thought I should challenge myself with answering some questions on this blog.
-[Data Science Interviews]("https://awesomeopensource.com/project/alexeygrigorev/data-science-interviews") should have
+[Data Science Interviews](https://awesomeopensource.com/project/alexeygrigorev/data-science-interviews) should have
 3 categories of coding interview
 
 1. Python
@@ -14,7 +14,7 @@ In preparing for my coding interviews, I thought I should challenge myself with 
 3. Algorithms
 
 Perhaps they dont even ask about algorithms and data structures. But better safe than sorry.
-A good resource on algorithms can be found [here]("https://awesomeopensource.com/project/kdn251/interviews#algorithms").
+A good resource on algorithms can be found [here](https://awesomeopensource.com/project/kdn251/interviews#algorithms).
 
 *Question: What is a binary search?*
 
