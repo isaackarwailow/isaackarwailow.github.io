@@ -34,22 +34,30 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isaackarwailow
 github_username:  isaackarwailow
 collections:
-authors:
-
+  authors:
+    output: true
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
+  - scope:
+      path: ""
+      type: "authors"
     values:
-      layout: 'post'
-      title: 'My Title'
-
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

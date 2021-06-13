@@ -1,6 +1,5 @@
 ---
-layout: post
-author: Isaac Low
+author: isaac
 title: Algorithmic questions
 ---
 

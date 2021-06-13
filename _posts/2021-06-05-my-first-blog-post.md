@@ -1,5 +1,5 @@
 ---
-layout: post
+author: Isaac Low
 title: The Journey Begins
 ---
 
