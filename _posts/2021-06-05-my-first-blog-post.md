@@ -1,5 +1,5 @@
 ---
-author: Isaac Low
+author: isaac
 title: The Journey Begins
 ---
 
