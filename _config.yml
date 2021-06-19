@@ -45,12 +45,12 @@ plugins:
 
 defaults:
   - scope:
-      path: "/authors"
+      path: ""
       type: "authors"
     values:
       layout: "author"
   - scope:
-      path: "/posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
