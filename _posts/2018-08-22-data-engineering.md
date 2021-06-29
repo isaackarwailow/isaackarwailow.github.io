@@ -14,4 +14,6 @@ When preparing for my data engineering interview, I realized that there are a lo
 2) Hadoop, HDFS, Hive, Pig, MapReduce
 
 * The list of words above aren't that complicated. Hadoop is simply a collection of modules created in Java programming language. Hadoop facilitates a software framework for distributed storage and the processing of big data using the MapReduce Programming Model
-* MapReduce --> literally map and reduce. 
+* MapReduce --> literally map and reduce. MapReduce is known for locally processing the data at the nodes. So local data is 'mapped' onto temp storage. Then, Worker nodes redistribute the data among the nodes so that keys are sorted. Reduce --> meaning duplicates are removed
+* MapReduce works on use cases such as common Facebook friends. You can see how it applies as the parallelized map function only happens in the local mcahine. Whereas the shuffle and reduce is a form of distributed computing.
+* HDFS --> 
