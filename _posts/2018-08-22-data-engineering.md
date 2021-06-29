@@ -12,3 +12,6 @@ When preparing for my data engineering interview, I realized that there are a lo
 * Try to not talk too much about data lake. Although, if you understand the difference between cold storage and hot storage it would be good enough. Just tell the panel what kinds of lakes you have used. E.g. Google Cloud Storage, AWS EC2. The elasticity of cloud storage has potential to optimize costs and so is making scalable containerize apps, just make sure you know how to benchmark your improvements
 
 2) Hadoop, HDFS, Hive, Pig, MapReduce
+
+* The list of words above aren't that complicated. Hadoop is simply a collection of modules created in Java programming language. Hadoop facilitates a software framework for distributed storage and the processing of big data using the MapReduce Programming Model
+* MapReduce --> literally map and reduce. 
