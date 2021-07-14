@@ -18,4 +18,15 @@ Other than telling you its just luck, I have some useful feedback for those who 
 
 2) Ask interviewers/ HR for feedback
 * The truth is, it is easy to get disheartened when you don't get what you want.
-* 
+* Keep things simple. When you go through your day, do things one step at a time towards your goal. Always have time for yourself.
+
+3) Understand your rights in this country
+* Confidence can be built from the land of down under when you practice speaking out who you are and what you believe.
+* Do not believe that people who are more powerful than you are out to get you. Do things that make you happy.
+* Patience is key. Everything in life is built one step at a time.
+* Do not believe anyone that says that expenses cannot be reduced. In other words get some financial acumen. Read up about how to get a home loan or invest in the right kind of insurance. This may be more for banking people but the rule still applies
+
+4) Trust your gut and your economical rationale. Not other people.
+* The true worth of a product is in the amount you are willing to spend to get it. You need economic rationale to survive. And might I emphasize, a very sharp eye for details in spotting the small print.
+* Think like a lawyer. Always read the small print because there lies the advantage and the disadvantage. You are not in school anymore.
+* People of high networth spend more, they don't actually save more. Again, it's not in what you save but how much from what your giving are you getting in return.
