@@ -4,8 +4,6 @@ title: Author
 ---
 <h1>About the Author</h1>
 
-<li>
-  <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-  <h3>{{ author.position }}</h3>
-  <p>{{ author.content | markdownify }}</p>
-</li>
+<h2>{{ site.author.name }}</h2>
+<h3>{{ site.author.position }}</h3>
+<p>{{ site.author.content | markdownify }}</p>
