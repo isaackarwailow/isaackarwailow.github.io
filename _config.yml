@@ -18,21 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Juice
+title: Science as a Candle in the Dark
 email: isaackarwailow@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This Data Science website is to detail my journey in learning about the technicalities of data science
-  and artificial intelligence. Other than a pseudolink to my portfolio, where the real juice and innovative potential is,
-  I'd like to deidicate this blog to an audience who is not so well versed yet with Data Science. \n
+  I used to have this blog just entitled "data science". My bgackground is data engineering but that was
+  not the point. Rather than let the sphere of career political correctness contaminate the message of my blog,
+  I do believe that a man's career should outlast him. The key is not to just follow one's passion.
+  I believe one should inject passion to truth. In other words, write about science in an educative spirit, but also inject
+  some storytelling, intrigue and awe into the pages. \n
 
-  I strongly believe that living the good life involves some form of giving back to the community. Throughout my
-  career, I aspire to not only be a Data Science/ AI practiotioner who is involved at the cutting edge of innovation
-  and technology, I want to pass down the knowledge that I have gained throughout my career so
-  that others may make use of this resource whenever they want to start building a career in Data Science
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: isaackarwailow
-github_username:  isaackarwailow
+  I was enamoured by the way Carl Sagan wrote his books. 
+  He was one of the only people who knew how to make science
+  inspiring and didn't leave you out as if you were simply a layperson. I wax poetic about science because I don't want to take the dry,
+  dreary path that most people speak about science, as if it is this really boring, inapplicable subject done by people with no want
+  for practicality, busily trying to be Luddite sophists drooling over the sound of their own thoughts in a private chamber somewhere in a 
+  pretentious attic. I cannot capture what it is I do unless it is by the lights of these respectable men, people like Carl Sagan
+  and Isaac Asimov. \n
+
+baseurl: "https://isaackarwailow.github.io/blog.html" # the subpath of your site, e.g. /blog
+url: "https://isaackarwailow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "https://twitter.com/rogomerlin"
+github_username: "rogomerlin"
 collections:
   authors:
     output: true
