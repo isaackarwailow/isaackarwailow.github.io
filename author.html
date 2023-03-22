@@ -4,6 +4,8 @@ title: Author
 ---
 <h1>About the Author</h1>
 
+{% for author in author%}
 <h2>{{ site.author.name }}</h2>
 <h3>{{ site.author.position }}</h3>
 <p>{{ site.author.content | markdownify }}</p>
+{% endif%}
