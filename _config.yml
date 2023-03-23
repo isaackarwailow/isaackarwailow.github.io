@@ -18,22 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Science as a Candle in the Dark
+title: Innovation through computer science enlightens the day, and guards the night.
 email: isaackarwailow@gmail.com
 description: >
-  I used to have this blog just entitled "data science". My bgackground is data engineering but that was
-  not the point. Rather than let the sphere of career political correctness contaminate the message of my blog,
-  I do believe that a man's career should outlast him. The key is not to just follow one's passion.
-  I believe one should inject passion to truth. In other words, write about science in an educative spirit, but also inject
-  some storytelling, intrigue and awe into the pages. \n
+  This blog reflects my pursuit of the things I have learnt throughout the years in my career. 
+  I started out with a Bachelor of Arts in English and attained a Masters in Information Technology with a major in Data Analytics.
 
-  I was enamoured by the way Carl Sagan wrote his books. 
-  He was one of the only people who knew how to make science
-  inspiring and didn't leave you out as if you were simply a layperson. I wax poetic about science because I don't want to take the dry,
-  dreary path that most people speak about science, as if it is this really boring, inapplicable subject done by people with no want
-  for practicality, busily trying to be Luddite sophists drooling over the sound of their own thoughts in a private chamber somewhere in a 
-  pretentious attic. I cannot capture what it is I do unless it is by the lights of these respectable men, people like Carl Sagan
-  and Isaac Asimov. \n
+  Througout my 1.7 years experience as an Analyst Data Engineer, I have pieced together my pitch for the kind of value I bring to a company:
+  I am passionate about new ideas/ ways of working. I am particularly interested in innovative spaces in Penetration Testing and Data Science.
+
+  In my day job, I most enjoy utilizing and documenting innovative pieces of code to help my team 
+  be more productive.
+
+  I also happen to enjoy reading about OffSec topics to further develop my security awareness. I have communicated to stakeholders on
+  around 20 different metrics for FinCrime, but am looking for more challenges in the innovative space.
+
+  I enjoy finding solid and sustainable hygene for adopting a great defensive appetite involving security awareness. I believe that
+  is a culture and awareness that all teams should have. I aspire to be someone who delivers value in the security space using the latest
+  techniques and methodologies
+
+   \n
 
 baseurl: "https://isaackarwailow.github.io/blog.html" # the subpath of your site, e.g. /blog
 url: "https://isaackarwailow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
