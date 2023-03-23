@@ -8,8 +8,7 @@ I started out with a Bachelor of Arts in English and attained a Masters in Infor
 Througout my 1.7 years experience as an Analyst Data Engineer, I have pieced together my pitch for the kind of value I bring to a company:
 I am passionate about new ideas/ ways of working. I am particularly interested in innovative spaces in Penetration Testing and Data Science.
 
-In my day job, I most enjoy utilizing and documenting innovative pieces of code to help my team 
-be more productive.
+In my day job, I most enjoy utilizing and documenting innovative pieces of code to help my team be more productive.
 
 I also happen to enjoy reading about OffSec topics to further develop my security awareness. I have communicated to stakeholders on
 around 20 different metrics for FinCrime, but am looking for more challenges in the innovative space.
