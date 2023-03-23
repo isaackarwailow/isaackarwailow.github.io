@@ -27,6 +27,6 @@ for sv in svs:
     df_concatenated = pd.concat([df_concatenated, df], axis = 0)
 # this loop goes through the list of schema versions and executes the above query qs
 # then we use the concat function. Axis = 0 just means you are performing a computation accross all rows
-print(df_concatenated)
+df_concatenated
 # make sure the print command is outside the loop
 ```
