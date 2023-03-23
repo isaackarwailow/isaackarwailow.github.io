@@ -21,7 +21,8 @@
 title: Innovation through computer science enlightens the day, and guards the night.
 email: isaackarwailow@gmail.com
 description: >
-  This blog reflects my pursuit of the things I have learnt throughout the years in my career. 
+  This site details the lessons learned and powerful gems throughout my career as an Analyst Data Engineer
+  who is interested in all things Computer Science.
 
 baseurl: "https://isaackarwailow.github.io/blog.html" # the subpath of your site, e.g. /blog
 url: "https://isaackarwailow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
