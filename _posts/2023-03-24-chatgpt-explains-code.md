@@ -40,3 +40,12 @@ Then, a for loop is used to iterate over each "sv" in the "svs" list. Inside the
 The query is then executed using a function called "aws.execute_query_df" which returns a Pandas DataFrame containing the query results. The DataFrame is concatenated with the previous data using the pd.concat() method, which combines the new data with the existing data along the rows (axis=0).
 
 Finally, the loop ends and the concatenated DataFrame is stored in the "df_concatenated" variable. The code does not return or print this DataFrame, so it will not be visible in the console.
+
+## Review
+
+It isn't too bad as it explained the code really well. However, I believe a human who wrote this code still has the better context for explanation. The language model missed a couple of things:
+
+- The query was actually executed using AWS API that connects to RedShift, which is AWS' data warehouse solution.
+- Actually Jupyter notebooks, which is where this code is executed does not need 'print' to actually print a dataframe.
+
+Overall, its a decent attempt!
