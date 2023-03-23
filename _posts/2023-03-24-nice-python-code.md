@@ -6,7 +6,7 @@ title: Code for looping a bunch of schema versions
 My first code explanation! I feel that it is very helpful to share innovative approches to solving problems to the world, as long it doesn't contain any PII!
 Code is beautiful in itself. However, any innovative code cannot be known to the world if we don't document it/ explain it thoroughly.
 
-From a securities perspective, understandibility of code helps all people understand what is going on in their systems. And that means they can be harder to exploit/ attack.
+From a securities perspective, understandibility of code helps all people understand what is going on in their systems. And that means they can be harder to exploit/ attack from an OffSec perspective. Stakeholders have to be always on a DefSec mindset! Hopefully!
 
 ```python
 import pandas as pd
