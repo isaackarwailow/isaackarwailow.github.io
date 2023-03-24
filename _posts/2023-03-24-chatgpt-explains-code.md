@@ -1,4 +1,5 @@
 ---
+layout: page
 author: isaac
 title: How About I leave ChatGPT to explain code!
 ---
